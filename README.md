@@ -6,7 +6,7 @@ Welcome to Python Course Assignment One. As you have completed the milestone one
 1. *Step-1*: You need to clone this repository first. You can clone the repository by following command
 
 ```code
-git clone https://github.com/aouwalitshikkha/assignments-one.git
+git clone https://github.com/aouwalitshikkha/mobile-post-data.git
 ```
 
 2. Open it in your favorite IDE e.g. PyCharm, VS Code etc.
